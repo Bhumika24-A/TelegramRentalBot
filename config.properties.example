@@ -1,0 +1,22 @@
+# ========================================================
+# Telegram Rental Property Assistant - Configuration Template
+# ========================================================
+# Instructions:
+# 1. Copy this file to src/main/resources/config.properties
+# 2. Fill in your Telegram Bot Token and RapidAPI Key below.
+# 3. Keep config.properties private (it is git-ignored).
+# ========================================================
+
+# Telegram Bot Configuration
+# Your Telegram bot username (e.g. from @BotFather)
+bot.username=YOUR_BOT_USERNAME
+
+# Your Telegram Bot Token obtained from @BotFather
+bot.token=YOUR_BOT_TOKEN_HERE
+
+# RapidAPI Booking.com API Configuration
+# RapidAPI key from https://rapidapi.com/
+rapidapi.key=YOUR_RAPIDAPI_KEY_HERE
+
+# RapidAPI host for Booking.com API
+rapidapi.host=booking-com15.p.rapidapi.com

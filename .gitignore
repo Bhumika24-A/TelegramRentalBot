@@ -1,0 +1,33 @@
+# Target build directory
+target/
+
+# Compiled Java class files
+*.class
+
+# Secret configuration files
+**/config.properties
+config.properties
+
+# Environment files
+.env
+.env.*
+*.env
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.iml
+*.iws
+*.ipr
+.settings/
+.project
+.classpath
+
+# OS and system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
+logs/
